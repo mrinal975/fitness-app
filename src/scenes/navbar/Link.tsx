@@ -1,3 +1,4 @@
+// @ts-ignore
 import AnchorLink from "react-anchor-link-smooth-scroll";
 import { SelectedPage } from "src/shared/types";
 
