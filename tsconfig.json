@@ -20,5 +20,5 @@
     "noEmit": true,
     "jsx": "react-jsx"
   },
-  "include": ["src", "typings/react-anchor-link-smooth-scroll.d.ts"]
+  "include": ["src", "@types/react-anchor-link-smooth-scroll.d.ts"]
 }
